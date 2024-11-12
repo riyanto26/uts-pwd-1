@@ -46,7 +46,7 @@ MatKul  : Pemrogramman Web Dasar (PWD) -->
     </form>
     <hr>
     <div class="img">
-  <img src="./img/image1.png" alt=""image1-removebg-preview>
+  <img src="./img/giphy.gif" alt=""image1-removebg-preview>
 </div>
   </div>
 </body>
